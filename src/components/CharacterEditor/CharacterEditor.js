@@ -87,6 +87,7 @@ function App() {
           clothesColor={clothesColor}
         />
       </div>
+      <span className={styles.background}/>
     </main>
   );
 }
